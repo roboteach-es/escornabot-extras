@@ -1,6 +1,23 @@
 # escornabot-extras
 Pezas extra para o proxecto Escornabot
 
+## Carauta para Brivoi Compactus (de Bibliotecas Creativas)
+
+![escornafaceBrivoiCompactus](escornafaceBrivoiCompactus.png)
+
+## Carauta de Bibliotecas Creativas
+
+![escornafaceBibliotecasCreativas](escornafaceBibliotecasCreativas.png)
+
+## Carauta para Brivoi Compactus suxeita papel/cartón
+
+![escornafaceBCClip](escornafaceBCClip.png)
+
+## Pequena peana para suxeitar de pe tarxetas de papel/cartón
+
+![card-holder](card-holder.png)
+
+
 ## LICENCIA
 
 Este traballo está suxeito á licencia [GNU General Public v3.0 License](LICENSE-GPLV30). 
