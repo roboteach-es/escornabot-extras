@@ -4,6 +4,8 @@ Pezas extra para o proxecto Escornabot
 ## Pezas para o Escornabot de Bibliotecas Creativas (Escornabot Brivoi Compactus)
 
   ### Carauta base
+  Basada na [Carauta Base](https://github.com/mgesteiro/escornabot-Brivoi-DIY/tree/master/3D#escornaface) do modelo **Escornabot Brivoi DIY**
+
   Ficheiros &rarr; [STL](BibliotecasCreativas/escornafaceBrivoiCompactus.stl) | 
   [FreeCAD](BibliotecasCreativas/escornafaceBrivoiCompactus.FCStd)
   ![escornafaceBrivoiCompactus](BibliotecasCreativas/escornafaceBrivoiCompactus.png)
@@ -20,7 +22,7 @@ Pezas extra para o proxecto Escornabot
 
 
 ## Carautas para Escornabot Brivoi DIY
-  A **carauta base** está dispoñible no [repositorio Escornabot Brivoi DIY](https://github.com/mgesteiro/escornabot-Brivoi-DIY/tree/master/3D#escornaface)
+  A **carauta base** da que parten todas as carautas está dispoñible no [repositorio Escornabot Brivoi DIY](https://github.com/mgesteiro/escornabot-Brivoi-DIY/tree/master/3D#escornaface)
 
   ### Carauta porta ollos
   Ficheiros &rarr; [STL](carautas/escornaface-eyes.stl) | 
