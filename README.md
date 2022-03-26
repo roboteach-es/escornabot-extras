@@ -4,7 +4,7 @@ Pezas extra para o proxecto Escornabot
 ## Pezas para o Escornabot de Bibliotecas Creativas (Escornabot Brivoi Compactus)
 
   ### Carauta base
-  Ficheiros &rarr; [STL](BibliotecasCreativas/escornafaceBrivoiCompactus.png) | 
+  Ficheiros &rarr; [STL](BibliotecasCreativas/escornafaceBrivoiCompactus.stl) | 
   [FreeCAD](BibliotecasCreativas/escornafaceBrivoiCompactus.FCStd)
   ![escornafaceBrivoiCompactus](BibliotecasCreativas/escornafaceBrivoiCompactus.png)
 
